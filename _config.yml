@@ -2,7 +2,7 @@
 title: Jonas Degrave
 header-img: img/home-bg.jpg
 email: Jonas.Degrave@UGent.be
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Blog of Jonas Degrave. Read about my (side) projects."
 baseurl: ""
 url: "https://317070.github.io"
 twitter_username: 317070
@@ -12,7 +12,7 @@ facebook_username: jonas.debraeve
 # Build settings
 markdown: kramdown
 highlighter: pygments
-permalink: pretty
+permalink: /:title/
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
