@@ -13,3 +13,5 @@ published:  true
 <p>My main contribution being the gif of the animated plankton. What you see is an affine transformation which is being optimized for maximum certainty, by finding the derivative through the entire stack of the convolutional neural network.</p>
 
 <iframe src="http://gfycat.com/ifr/BlandEasyHamadryad" frameborder="0" scrolling="no" width="840" height="168" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
+
+<p>In this context and with the limited time, it was not performing well enough to have it contribute to the final score. I will however research further on this idea and hope to publish more soon.</p>
