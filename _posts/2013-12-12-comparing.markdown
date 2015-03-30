@@ -1,17 +1,16 @@
 ---
 layout:     post
-title:      "Wins a kaggle competition"
-subtitle:   "With our lab, we won the 100.000$ prize for classifying plankton using deep learning."
-date:       2015-03-17 01:00:00
+title:      "Gave a talk on Robio"
+subtitle:   "My paper on comparing different techniques for trotting and turning got accepted for the Robio 
+conference."
+date:       2013-12-12 01:00:00
 author:     "317070"
-header-img: "img/post-plankton-bg.jpg"
+header-img: "img/post-comparing-bg.jpg"
 published:  true
 ---
 
-<p>This night we heard we won the kaggle plankton competition. Our approach can be found here: <a>http://benanne.github.io/2015/03/17/plankton.html</a></p>
+<p>In this paper, we compare three different trotting techniques and five different turning strategies on a 
+small, compliant, biologically inspired quadrupedal robot, the Oncilla. The locomotion techniques were optimized on the actual hardware using a treadmill setup, without relying on models. We found that using half ellipses as foot trajectories resulted in the fastest gaits, as well as the highest robustness against parameter changes. Furthermore, we analyzed the importance of using the scapulae for turning, from which we observed that although not necessary, they are needed for turning with a higher speed.</p>
 
-<p>My main contribution being the gif of the animated plankton. What you see is an affine transformation which is being optimized for maximum certainty, by finding the derivative through the entire stack of the convolutional neural network.</p>
-
-<iframe src="http://gfycat.com/ifr/BlandEasyHamadryad" frameborder="0" scrolling="no" width="840" height="168" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
-
-<p>In this context and with the limited time, it was not performing well enough to have it contribute to the final score. I will however research further on this idea and hope to publish more soon.</p>
+<p>The full paper can be found <a 
+href="https://biblio.ugent.be/input/download?func=downloadFile&fileOId=4215696">here</a>.</p>

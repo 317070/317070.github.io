@@ -1,17 +1,20 @@
 ---
 layout:     post
-title:      "Wins a kaggle competition"
-subtitle:   "With our lab, we won the 100.000$ prize for classifying plankton using deep learning."
-date:       2015-03-17 01:00:00
+title:      "Talks on ICMLA about terrain classification"
+subtitle:   "My paper on classifying terrain using the sensors on a quadrupedal robot, got accepted to the 
+ICMLA conference."
+date:       2013-04-12 01:00:00
 author:     "317070"
-header-img: "img/post-plankton-bg.jpg"
+header-img: "img/post-terrain-bg.jpg"
 published:  true
 ---
 
-<p>This night we heard we won the kaggle plankton competition. Our approach can be found here: <a>http://benanne.github.io/2015/03/17/plankton.html</a></p>
+<p>Using data retrieved from the Puppy II robot at the University of Zurich (UZH), we show that machine 
+learning techniques with non-linearities and fading memory are effective for terrain classiﬁcation, both 
+supervised and unsupervised, even with a limited selection of input sensors. The results indicate that most 
+information for terrain classiﬁcation is found in the combination of tactile sensors and proprioceptive joint 
+angle sensors. The classiﬁcation error is small enough to have a robot adapt the gait to the terrain and hence 
+move more robustly.</p>
 
-<p>My main contribution being the gif of the animated plankton. What you see is an affine transformation which is being optimized for maximum certainty, by finding the derivative through the entire stack of the convolutional neural network.</p>
-
-<iframe src="http://gfycat.com/ifr/BlandEasyHamadryad" frameborder="0" scrolling="no" width="840" height="168" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
-
-<p>In this context and with the limited time, it was not performing well enough to have it contribute to the final score. I will however research further on this idea and hope to publish more soon.</p>
+<p>The paper can be found <a 
+href="https://biblio.ugent.be/input/download?func=downloadFile&fileOId=4215684">here</a></p>
