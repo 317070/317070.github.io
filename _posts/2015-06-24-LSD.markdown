@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      "LSD neural net"
+subtitle:   "Large Scale Deep Neural Net visualizing top level features"
+date:       2015-06-24 01:00:00
+author:     "317070"
+header-img: "img/post-lsd-bg.jpg"
+published:  true
+---
+
+
 Inspired by [Google's inceptionism art](http://googleresearch.blogspot.be/2015/06/inceptionism-going-deeper-into-neural.html), my colleagues and I have created an interactive visualization of a hallucinating neural network. You can find it on Twitch at [http://www.twitch.tv/317070](http://www.twitch.tv/317070).
 
 *This post provides some technical details about our work and is primarily intended for readers who are quite familiar with machine learning and neural networks.*
