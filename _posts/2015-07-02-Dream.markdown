@@ -69,7 +69,7 @@ But go ahead, and experiment for yourself on Twitch. The network knows all words
 
 [A link to the stream on twitch, where you can use the chat to request objects](http://www.twitch.tv/317070?tt_medium=live_embed&tt_content=text_link)
 
-<iframe src="http://www.twitch.tv/317070/embed" frameborder="0" scrolling="no" height="378" width="620"></iframe>
+<iframe src="http://www.twitch.tv/317070/embed" frameborder="0" scrolling="no" height="378" width="620">unwantedtext</iframe>
 
 
 The future
