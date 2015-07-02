@@ -21,7 +21,7 @@ A request we often got, was: "Can I have the source code?" Sure you can, [here](
 The people
 ==========
 
-Overall, I have receive almost only positive comments. Most surprising to me, was that a lot of the response came from the art world, not only from the machine learning community. I have received offers to put this in art expositions, which raises some fundemental questions. Am I still the artist, because I could never even imagine the stuff that comes out of the algorithm? Is it still 'valuable', as it can be created and recreated in realtime to infinity? Or is it exactly this ephemerality, this infinite cornucopia of visually rich images, which makes it interesting? What will the future bring, as the code has been hacked together in the course of 10 days?
+Overall, I have receive almost only positive comments. Most surprising to me, was that a lot of the response came from the art world, not only from the machine learning community. I have received offers to put this in art expositions, which raises some fundemental questions. Am I still the artist, because I could never even imagine the stuff that comes out of the algorithm? Is it still 'valuable', as it can be created and recreated in realtime to infinity? Or is it exactly this ephemerality, this infinite cornucopia of visually rich images, which makes it interesting? What will the future bring, as the code has been hacked together in the course of only 10 days?
 
 By the way, another group we saw a lot on the stream, were people doing drugs. I can't imagine why.
 
@@ -75,6 +75,6 @@ But go ahead, and experiment for yourself on Twitch. The network knows all words
 The future
 ==========
 
-The guys at Google released [more detailed instructions](https://github.com/google/deepdream/blob/master/dream.ipynb) on how they did it. It appears we had some things right (we also used Gaussian models as image priors),  that we did some things different (we multi-scaled the prior), and that they have ideas I can't wait to try out!
+Last night, the guys at Google released [more detailed instructions](https://github.com/google/deepdream/blob/master/dream.ipynb) on how they did it. It appears we had some things right (we also used Gaussian models as image priors),  that we did some things different (we multi-scaled the prior), and that they have ideas I can't wait to try out!
 
 So if you keep tuned, who knows what these neural nets will produce a couple of months from now!
