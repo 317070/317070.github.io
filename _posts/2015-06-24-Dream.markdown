@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "LSD neural net, the wrapup"
+title:      "Interactive Deep Neural Net Hallucinations (+source code)"
 subtitle:   "Large Scale Deep Neural Net visualizing top level features"
 date:       2015-07-02 16:00:00
 author:     "317070"
@@ -23,7 +23,7 @@ The people
 
 Overall, I have receive almost only positive comments. Most surprising to me, was that a lot of the response came from the art world, not only from the machine learning community. I have received offers to put this in art expositions, which raises some fundemental questions. Am I still the artist, because I could never even imagine the stuff that comes out of the algorithm? Is it still 'valuable', as it can be created and recreated in realtime to infinity? Or is it exactly this ephemerality, this infinite cornucopia of visually rich images, which makes it interesting? What will the future bring, as the code has been hacked together in the course of 10 days?
 
-By the way, another group which was very interested in the stream, were people doing drugs. I can't imagine why.
+By the way, another group we saw a lot on the stream, were people doing drugs. I can't imagine why.
 
 The images
 ==========
