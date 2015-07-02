@@ -68,6 +68,7 @@ I love this one. The subject is bubbles but since bubbles are transparent, it al
 But go ahead, and experiment for yourself on Twitch. The network knows all words included in [this list](http://image-net.org/challenges/LSVRC/2014/browse-synsets). Feel free to request them to the VJ-bot running the stream. 
 
 [A link to the stream on twitch, where you can use the chat to request objects](http://www.twitch.tv/317070?tt_medium=live_embed&tt_content=text_link)
+
 <iframe src="http://www.twitch.tv/317070/embed" frameborder="0" scrolling="no" height="378" width="620"></iframe>
 
 
