@@ -39,12 +39,12 @@ Installing python-twitch-stream
 ===============================
 Installing python-twitch-stream is easy. First, you need to install the library:
 
-> sudo pip install python-twitch-stream
+	sudo pip install python-twitch-stream
 
 Next, you will also need a recent version of ffmpeg (this was written in october 2015).
 
-> sudo add-apt-repository ppa:mc3man/trusty-media
-> sudo apt-get update && sudo apt-get install ffmpeg
+	sudo add-apt-repository ppa:mc3man/trusty-media
+	sudo apt-get update && sudo apt-get install ffmpeg
 
 That's it, you're good to go. More details [here](http://python-twitch-stream.readthedocs.org/en/latest/).
 
