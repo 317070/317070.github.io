@@ -95,9 +95,67 @@ Let us start of simple, with a small script which just sends some basic (noise) 
 		        frame = np.random.rand(480, 640, 3)
 		        videostream.send_video_frame(frame)
 
+The latest verion of this code is also available [here](https://github.com/317070/python-twitch-stream/blob/master/examples/basic_video_out.py).
+
+Now, let us go over this step by step.
+
+	if __name__ == "__main__":
+	    parser = argparse.ArgumentParser(description=__doc__)
+	    required = parser.add_argument_group('required arguments')
+	    required.add_argument('-s', '--streamkey',
+		                  help='twitch streamkey',
+		                  required=True)
+	    args = parser.parse_args()
+
+First, we make a stand-alone script, and parse some of the arguments to retrieve the streamkey.
+
+	    with TwitchBufferedOutputStream(
+		    twitch_stream_key=args.streamkey,
+		    width=640,
+		    height=480,
+		    fps=30.,
+		    verbose=True) as videostream:
+
+Next, we create a stream to communicate with twitch. We give it our stream key, along with the properties of the video (width, height and frames per second). We also make this stream verbose. When verbose, the script will pip all the output of ffmpeg to your terminal, which makes it easier to debug.
+
+		frame = np.zeros((480, 640, 3))
+
+		while True:
+		    if videostream.get_video_frame_buffer_state() < 30:
+		        frame = np.random.rand(480, 640, 3)
+		        videostream.send_video_frame(frame)
+
+Create a video frame (or image, if you will). This image contains 3 color channels (red, green and blue). The two other dimensions are respectively the height and the width we chose earlier.
+Every time the buffer of our video is about to get empty, we create a random frame and add it to the stream.
+
+There you go, it is that easy. And you already have your first video on twitch.
 
 
+A first version: adding sound
+-----------------------------
 
+Now, this was easy, let's add some sound to the mix.
 
+	    with TwitchBufferedOutputStream(
+		    twitch_stream_key=args.streamkey,
+		    width=640,
+		    height=480,
+		    fps=30.,
+		    verbose=True,
+		    audio_enabled=True) as videostream:
+
+		frame = np.zeros((480, 640, 3))
+
+		while True:
+		    if videostream.get_video_frame_buffer_state() < 30:
+		        # print("V",videostream.get_video_buffer_state())
+		        frame = np.random.rand(480, 640, 3)
+		        videostream.send_video_frame(frame)
+
+		    if videostream.get_audio_buffer_state() < 30:
+		        # print("A",videostream.get_video_buffer_state())
+		        left_audio = np.random.randn(1470)
+		        right_audio = np.random.randn(1470)
+		        videostream.send_audio(left_audio, right_audio)
 
 
