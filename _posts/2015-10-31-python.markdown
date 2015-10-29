@@ -1,0 +1,101 @@
+---
+layout:     post
+title:      "Python-twitch-stream Tutorial"
+subtitle:   "A tutorial to interact with Twitch using python"
+date:       2015-10-31 16:00:00
+author:     "317070"
+header-img: "img/post-twitch-bg.png"
+published:  false
+---
+
+
+Make your own twitch stream using python code!
+
+What does this tutorial cover
+=============================
+We will set up a program, which creates an interactive twitch stream. It will generate sound and color, and the users in the chat can request which sounds and which colors.
+
+We will go over this from scratch.
+1. First, the installation process of python-twitch-stream
+2. Creating the necessary tokens to start broadcasting on Twitch
+3. Setting up the example script
+4. Run it on Twitch
+5. ???
+6. Profit!
+
+The example handled here is very basic, but the possibilities are endless. From interactive media art over "Twitch plays X" to Twitch riding your roomba around the house.
+Using python for interfacing opens a whole new world of possibilities! I wrote this library for my art/science piece "LSD Neural Network", which received critical acclaim from international press.
+
+Prerequisites
+=============
+I'll assume you:
+1. have a computer running Ubuntu (or some Debian linux distribution),
+2. know how to code in python,
+3. have some experience with numpy,
+4. have some familiarity with the terminal,
+5. have some familiarity with Twitch.
+
+Installing python-twitch-stream
+===============================
+Installing python-twitch-stream is easy. First, you need to install the library:
+
+> sudo pip install python-twitch-stream
+
+Next, you will also need a recent version of ffmpeg (this was written in october 2015).
+
+> sudo add-apt-repository ppa:mc3man/trusty-media
+> sudo apt-get update && sudo apt-get install ffmpeg
+
+That's it, you're good to go. More details [here](http://python-twitch-stream.readthedocs.org/en/latest/).
+
+
+Getting the tokens
+==================
+Next, you are going to need some tokens from Twitch before they allow your computer to access there servers.
+
+1. [Create an account on Twitch](https://passport.twitch.tv/users/new)
+2. Get your streaming key. Log into your Twitch account, and go to [here](http://www.twitch.tv/youruser/dashboard/streamkey) where you will find your streaming key. Keep this with you, you will need it later on.
+3. Get your oauth key. You'll need this to access the chat. For this, go [here](https://twitchapps.com/tmi/). Allow it to have access to your account and generate an oauth key. Keep it close, you are going to need it.
+
+
+The code
+========
+
+A first version
+---------------
+
+Let us start of simple, with a small script which just sends some basic (noise) video stream to Twitch. The code is as follows:
+
+> from __future__ import print_function
+> from twitchstream.outputvideo import TwitchBufferedOutputStream
+> import argparse
+> import numpy as np
+> 
+> if __name__ == "__main__":
+>     parser = argparse.ArgumentParser(description=__doc__)
+>     required = parser.add_argument_group('required arguments')
+>     required.add_argument('-s', '--streamkey',
+>                           help='twitch streamkey',
+>                           required=True)
+>     args = parser.parse_args()
+> 
+>     with TwitchBufferedOutputStream(
+>             twitch_stream_key=args.streamkey,
+>             width=640,
+>             height=480,
+>             fps=30.,
+>             verbose=True) as videostream:
+> 
+>         frame = np.zeros((480, 640, 3))
+> 
+>         while True:
+>             if videostream.get_video_frame_buffer_state() < 30:
+>                 frame = np.random.rand(480, 640, 3)
+>                 videostream.send_video_frame(frame)
+
+
+
+
+
+
+
