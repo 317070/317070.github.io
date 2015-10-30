@@ -399,6 +399,7 @@ And that's it! Feel free to create your own interactive video streams. As you se
 ===
 
 Some small tips and tricks:
+
 1. Make sure to make your channel low latency (you can find this option on your Twitch dashboard). This way, the delay between when the user types something in the chat and they get feedback in the video, is lower.
 2. Keep your buffers as empty as possible, but not any more. You never want to have buffer underflows, or audio and video will go out of sync. However, the fuller the buffer, the higher the delay between the chat and a reaction in your video.
 3. If you have problems, ask! If you did a project with this software, feel free to share it! If you know how to improve this library, please post pull requests!
