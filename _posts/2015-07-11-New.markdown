@@ -2,7 +2,7 @@
 layout:     post
 title:      "LSD-net was featured in the New Scientist"
 subtitle:   "and some other media, like the Guardian, der Spiegel and Atlas Obscura"
-date:       2015-07-11 16:00:00
+date:       2015-10-15 16:00:00
 author:     "317070"
 header-img: "img/post-new-bg.jpg"
 published:  true
@@ -10,7 +10,7 @@ published:  true
 
 I was a big fan of the New Scientist growing up, I might even not have become such a new scientist if it were not for the great, digging stories they provided to satisfy my young, curious mind. Especially not understanding half of the detail provided (and me being only a high school student) made me dig deeper in subjects across all fields of science. And now, so many years later, I got called for an interview!
 
-I won't put the resulting article here, but I'm very flatter to have been featured in the article "Deep Thought, The irresistible rise of neural networks". Due to copyright reasons, I will only put a couple of quotes here, the full article is available [here](https://www.newscientist.com/article/mg22730291-900-the-rapid-rise-of-neural-networks-and-why-theyll-rule-our-world/).
+I won't put the resulting article here, but I'm very flatter to have been featured in the article "Deep Thought, The irresistible rise of neural networks". Due to copyright reasons, I will only put a couple of quotes underneath, the full article is available [here](https://www.newscientist.com/article/mg22730291-900-the-rapid-rise-of-neural-networks-and-why-theyll-rule-our-world/).
 
 > Watching 317070's livestream already gives the uncanny sense that you are looking at a humanlike consciousness at work. Each of its images is unique, generated through a process that even its creator doesn't really understand.
 
