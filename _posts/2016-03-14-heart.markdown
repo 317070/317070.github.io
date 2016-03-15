@@ -177,6 +177,7 @@ sharing some of the dense layers between the systole and diastole networks as we
 * maxout units
 
 Some of the things we tried, but didn't work:
+
 * A variant of highway networks and residual networks. These failed to perform very well, probably due to the small dataset, whereas these networks mostly shine in very big datasets.
 * Sharing some of the dense layers between the systole and diastole networks as well. This didn’t improve our results.
 * Training convolutional layers on the sunny dataset as well
