@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      "Speaker: Critical Utopias -- Cultural Discourse in the Digital Age"
+subtitle:   "Artificial intelligence might replace taxi-drivers in the future, but how will the future of cultural journalists look like in light of future technological revolutions? (Debate in Helsinki)"
+date:       2016-05-04 00:00:00
+author:     "317070"
+header-img: "img/post-helsinki-bg.jpg"
+---
+
+The Finnish Cultural Institute for the Benelux invited me [to give a talk](http://www.finncult.be/critical-utopias-designmuseum-helsinki/?lang=en) in the design musem in Helsinki on the topic of a future of art and art critics, in an age of rapid evolution of technology.
+
+Unfortunately, the video failed, so there is nothing to show on this blog. 

@@ -1,0 +1,31 @@
+---
+layout:     post
+title:      "Speaker: the 3rd Data Science Ghent Meetup - Jonas Degrave"
+subtitle:   "Deep learning. What? How? Why? -- How to use deep learning to win Kaggle competitions."
+date:       2016-05-04 00:00:00
+author:     "317070"
+header-img: "img/post-deep-bg.png"
+---
+
+I explained how to use deep learning effectively, what is needed in order to get your models to work.
+These are the steps, which I often find missing by a lot of people.
+
+A video of the presentation underneath:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F2qbEMuN07E" frameborder="0" allowfullscreen></iframe>
+
+
+Edit:
+I received this mail afterwards.
+
+>Hoi Jonas,
+>
+>Ik wou je graag nog even bedanken voor de inspirerende presentatie van vandaag tijdens de data science meetup. Het was veruit de beste presentatie die ik me kan herinneren en ik heb enkele concrete ideeën opgedaan om toe te passen in de Kaggle competitie waar ik momenteel deel aan neem. Na 5 weken sta ik er trouwens eerste en mocht dat zo blijven is dat grotendeels te danken aan jouw schitterende vertoning, bedankt!
+>
+>Groeten,
+>
+>Tom
+
+So, see the video.
+
+Edit2:
+[Apparently, Tom of the mail above is working at Google Deepmind now.](https://ttvand.github.io/about/) Congratulations! I don't think there could possibly be a better reason to watch my video.

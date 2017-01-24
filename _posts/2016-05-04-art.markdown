@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "Talk: Does Artificial Intelligence understand Culture made by Real Intelligence?"
+subtitle:   "I gave a talk on the relationship between AI and Art at iMal in Brussels."
+date:       2016-05-04 00:00:00
+author:     "317070"
+header-img: "img/post-art-bg.jpg"
+---
+
+iMal invited me [to give a talk](http://imal.org/en/artssciences/jonasdegrave) of an hour on the topic of Artificial Intelligence and Art, for an audience which is made majorly out of artists and art enthousiasts. I took the challenge, and you may view the results underneath.
+
+The reactions have been overwhelmingly positive, and I have had many productive discussions with artists afterwards. It is remarkable, how some people arrive to the same broad conclusions in minutes as data scientists in years of research.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/efzTmX9UBaU" frameborder="0" allowfullscreen></iframe>
