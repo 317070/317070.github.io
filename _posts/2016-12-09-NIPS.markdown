@@ -7,6 +7,4 @@ author:     "317070"
 header-img: "img/post-engine-bg.png"
 ---
 
-Presented a poster.
-
-TODO: add poster
+{% include image.html url="/img/posters/nips-poster.pdf.png" description="The poster presented at NIPS" %}
