@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Gave a talk on Robio"
+title:      "Paper: (Robio) techniques for trotting and turning"
 subtitle:   "My paper on comparing different techniques for trotting and turning got accepted for the Robio 
 conference."
 date:       2013-12-12 01:00:00

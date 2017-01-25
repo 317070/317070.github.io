@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Speaker: the 3rd Data Science Ghent Meetup - Jonas Degrave"
-subtitle:   "Deep learning. What? How? Why? -- How to use deep learning to win Kaggle competitions."
-date:       2016-05-04 00:00:00
+subtitle:   "Deep learning. What? How? Why? -- How to use deep learning to win Kaggle competitions (+Video)."
+date:       2016-06-16 00:00:00
 author:     "317070"
 header-img: "img/post-deep-bg.png"
 ---
@@ -25,7 +25,5 @@ I received this mail afterwards.
 >
 >Tom
 
-So, see the video.
-
 Edit2:
-[Apparently, Tom of the mail above is working at Google Deepmind now.](https://ttvand.github.io/about/) Congratulations! I don't think there could possibly be a better reason to watch my video.
+[Apparently, Tom of the mail above came second in another Kaggle competition and is working at Google Deepmind now.](https://ttvand.github.io/about/) Congratulations!

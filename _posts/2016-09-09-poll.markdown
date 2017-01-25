@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "Activism: Pirate Party polls at 1.8%"
+subtitle:   "Pirate Party Belgium is on the rise again!"
+date:       2016-09-09 00:00:00
+author:     "317070"
+header-img: "img/post-pirate-bg.jpg"
+---
+
+{% include image.html url="/img/post-poll.jpg" description="Polling results according to the RTBF" %}
+
+I have been the co-president of Pirate Party Belgium for a couple of years, and have been been on lists for elections twice. So I am following them closely and am glad that they are holding on.
+It is still a long way to go for the 5% required for a first seat.

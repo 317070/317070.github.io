@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "Research: The Oncilla robot, walking autonomously"
+subtitle:   "Setup of the Oncilla walking on the treadmill filled with pebbles"
+date:       2014-03-01 01:00:00
+author:     "317070"
+header-img: "img/post-transfer-bg.jpg"
+published:  true
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dRW6SEABkMc" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qymL_XMXIic" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kcBBdwwYmQA" frameborder="0" allowfullscreen></iframe>
+

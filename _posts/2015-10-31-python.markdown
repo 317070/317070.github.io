@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Python-twitch-stream Tutorial"
+title:      "Tutorial: Python-twitch-stream Tutorial"
 subtitle:   "A tutorial to interact with Twitch using python"
 date:       2015-10-31 16:00:00
 author:     "317070"

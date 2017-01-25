@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Talk: Does Artificial Intelligence understand Culture made by Real Intelligence?"
-subtitle:   "I gave a talk on the relationship between AI and Art at iMal in Brussels."
+title:      "Speaker: Does Artificial Intelligence understand Culture made by Real Intelligence?"
+subtitle:   "I gave a talk on the relationship between AI and Art at iMal in Brussels (+Video)."
 date:       2016-05-04 00:00:00
 author:     "317070"
 header-img: "img/post-art-bg.jpg"

@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Diagnosing Heart Diseases with Deep Neural Networks"
+title:      "Competition: Diagnosing Heart Diseases with Deep Neural Networks"
 subtitle:   "We won $50.000 for a second place on Kaggle's Data Science Bowl."
-date:       2016-03-15 00:00:00
+date:       2016-03-14 00:00:00
 author:     "317070"
 header-img: "img/post-heart-bg.jpg"
 ---

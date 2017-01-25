@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      "Research: poster on Deep Reinforcement Learning Workshop at NIPS"
+subtitle:   "I presented a poster on the differentiably physics engine, and got some useful advice."
+date:       2016-12-09 00:00:00
+author:     "317070"
+header-img: "img/post-engine-bg.png"
+---
+
+Presented a poster.
+
+TODO: add poster

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Wins a kaggle competition"
+title:      "Competition: Wins a kaggle competition"
 subtitle:   "With our lab, we won the 100.000$ prize for classifying plankton using deep learning."
 date:       2015-03-17 01:00:00
 author:     "317070"

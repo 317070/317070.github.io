@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "LSD-net was featured in the New Scientist"
-subtitle:   "and some other media, like the Guardian, der Spiegel and Atlas Obscura"
-date:       2015-10-15 16:00:00
+title:      "Research: LSD-net was featured in the New Scientist"
+subtitle:   "and other media, like the Guardian, der Spiegel and Atlas Obscura"
+date:       2015-07-11 16:00:00
 author:     "317070"
 header-img: "img/post-new-bg.jpg"
 published:  true

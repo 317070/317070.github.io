@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Publishes article on transfer learning in robotics"
+title:      "Paper: transfer learning in robotics"
 subtitle:   "My research on using transfer learning for legged robots got published."
 date:       2015-03-16 01:00:00
 author:     "317070"

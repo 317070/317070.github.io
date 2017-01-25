@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "Activism: Camping on roof of an arms factory"
+subtitle:   "Protesting against weapons export from Belgium, requesting to embargo Saudi Arabia for bombarding Yemen."
+date:       2016-05-20 00:00:00
+author:     "317070"
+header-img: "img/post-roof-bg.jpg"
+---
+
+{% include image.html url="/img/roof/roof5.jpg"%}
+{% include image.html url="/img/roof/roof3.jpg"%}
+{% include image.html url="/img/roof/roof1.jpg"%}
+{% include image.html url="/img/roof/roof2.jpg"%}
+{% include image.html url="/img/roof/roof6.jpg"%}
+{% include image.html url="/img/roof/roof7.jpg"%}
+{% include image.html url="/img/roof/roof4.jpg"%}

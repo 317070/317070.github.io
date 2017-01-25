@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Successfully defended his research to the European Commission"
+title:      "Research: Successfully defended his research to the European Commission"
 subtitle:   "In Bielefeld, we successfully presented our research on the Oncilla robot for AMARSi to the European commission."
 date:       2014-04-14 01:00:00
 author:     "317070"
@@ -9,3 +9,7 @@ published:  true
 ---
 
 <p>We successfully defended our research on the Oncilla robot to the European Commission</p>
+
+The reviewers did have some difficulty with priority, given that they drive on different sides of the road in their home country. So they steered the robots into each other a couple of times.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OK4YKil5FLc" frameborder="0" allowfullscreen></iframe>

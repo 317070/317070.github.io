@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Backpropagation through camera"
+title:      "Research: Backpropagation through camera"
 subtitle:   "We optimized a computer vision neural network by backpropagating through a camera."
 date:       2017-01-16 00:00:00
 author:     "317070"

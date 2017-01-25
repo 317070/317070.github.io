@@ -1,12 +1,17 @@
 ---
 layout:     post
-title:      "LSD neural net"
+title:      "Art: LSD neural net"
 subtitle:   "Large Scale Deep Neural Net visualizing top level features"
 date:       2015-06-24 01:00:00
 author:     "317070"
 header-img: "img/post-lsd-bg.jpg"
 published:  true
 ---
+
+Edit: this was what it looked like live.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CgrTc_lM58w" frameborder="0" allowfullscreen></iframe>
+
+<p></p>
 
 <iframe src="http://www.twitch.tv/317070/embed" frameborder="0" scrolling="no" height="378" width="620"></iframe><a href="http://www.twitch.tv/317070?tt_medium=live_embed&tt_content=text_link" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px;text-decoration:underline;">Watch live video from 317070 on www.twitch.tv</a>
 

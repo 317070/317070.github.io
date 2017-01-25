@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "LSD-net presented at Art Festival"
+title:      "Art: LSD-net presented at Art Festival"
 subtitle:   "@Speculum Artium, Trbovlje, Slovenia"
 date:       2015-10-15 16:00:00
 author:     "317070"
