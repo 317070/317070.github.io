@@ -16,4 +16,5 @@ In order to have everything running in realtime on the Axoloti board, the weight
 {% include image.html url="https://0110.be/files/photos/429/axoloti_wbg_banner.png" description="The Axoloti board" %}
 
 Paper available here: http://dx.doi.org/10.1080/09298215.2017.1288747
+
 Patent pending
